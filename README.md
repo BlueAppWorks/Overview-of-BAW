@@ -18,10 +18,11 @@ Blue App Modules は Blue App Works が提唱する3つのモジュール化さ�
  * アプリケーションのデプロイ
  * 日々の利用
  * 統制の取れたIT環境で適切に利用
+
 をサポートすることができます。
 
-# repositories
-現在は Private Repository です。
+# Repositories
+現在はいずれも Private Repository です。プロトタイプは動作しているため各種デモの紹介や実装技術の説明は可能です。
 
 ### BlueAppOperator
 Snowflake上で稼働するアプリケーションを Blue App Operator 仕様に準拠するようにデプロイして「管理対象に登録」することで、アプリの起動停止をOperator経由で管理できるようにします。
